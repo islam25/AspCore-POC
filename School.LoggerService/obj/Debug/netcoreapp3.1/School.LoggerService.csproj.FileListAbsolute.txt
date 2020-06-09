@@ -1,0 +1,12 @@
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\bin\Debug\netcoreapp3.1\School.LoggerService.deps.json
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\bin\Debug\netcoreapp3.1\School.LoggerService.dll
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\bin\Debug\netcoreapp3.1\School.LoggerService.pdb
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\bin\Debug\netcoreapp3.1\School.Core.dll
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\bin\Debug\netcoreapp3.1\School.Core.pdb
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\obj\Debug\netcoreapp3.1\School.LoggerService.csprojAssemblyReference.cache
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\obj\Debug\netcoreapp3.1\School.LoggerService.csproj.CoreCompileInputs.cache
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\obj\Debug\netcoreapp3.1\School.LoggerService.AssemblyInfoInputs.cache
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\obj\Debug\netcoreapp3.1\School.LoggerService.AssemblyInfo.cs
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\obj\Debug\netcoreapp3.1\School.LoggerService.csproj.CopyComplete
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\obj\Debug\netcoreapp3.1\School.LoggerService.dll
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.LoggerService\obj\Debug\netcoreapp3.1\School.LoggerService.pdb

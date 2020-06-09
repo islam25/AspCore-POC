@@ -1,0 +1,15 @@
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\bin\Debug\netcoreapp3.1\School.Core.dll
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.AssemblyInfo.cs
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\bin\Debug\netcoreapp3.1\School.Infrastructure.deps.json
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\bin\Debug\netcoreapp3.1\School.Infrastructure.runtimeconfig.json
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\bin\Debug\netcoreapp3.1\School.Infrastructure.runtimeconfig.dev.json
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\bin\Debug\netcoreapp3.1\School.Infrastructure.dll
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\bin\Debug\netcoreapp3.1\School.Infrastructure.pdb
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\bin\Debug\netcoreapp3.1\School.Core.pdb
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.csprojAssemblyReference.cache
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.csproj.CopyComplete
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.dll
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.pdb
+C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Infrastructure\obj\Debug\netcoreapp3.1\School.Infrastructure.genruntimeconfig.cache

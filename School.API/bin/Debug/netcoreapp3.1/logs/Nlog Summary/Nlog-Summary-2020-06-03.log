@@ -1,0 +1,252 @@
+2020-06-03 11:05:10.1446 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:05:30.7223 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 11:05:30.7500 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:06:05.2287 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:06:07.7470 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course C# is added 
+2020-06-03 11:06:07.7575 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:06:14.3896 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:06:14.5535 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 11:06:14.5535 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:06:25.2088 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:06:25.2993 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course Mobile is added 
+2020-06-03 11:06:25.2993 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:06:32.6355 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:06:32.7717 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 11:06:32.7840 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:06:38.2718 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:06:38.7759 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course of 2 is retreived 
+2020-06-03 11:06:38.7823 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:07:00.2376 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:07:00.5324 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course 2 is updated 
+2020-06-03 11:07:00.5324 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:07:09.5971 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:07:09.6327 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 11:07:09.6415 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:07:20.8619 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:07:20.9478 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course 2 is retreived to deleted 
+2020-06-03 11:07:21.1036 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course 2 is deleted 
+2020-06-03 11:07:21.1089 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:07:26.8031 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:07:26.8351 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course of 2 is retreived 
+2020-06-03 11:07:26.8464 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:07:35.8433 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:07:35.9759 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 11:07:35.9841 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:21:28.2504 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:21:37.0496 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived 
+2020-06-03 11:21:37.0896 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:22:08.4330 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:22:10.6121 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Student Saly is added 
+2020-06-03 11:22:10.6587 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:22:17.5693 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:22:18.0832 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived 
+2020-06-03 11:22:18.1450 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:22:25.1459 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:22:25.7879 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course of 3 is retreived 
+2020-06-03 11:22:25.8964 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:22:45.2572 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:22:45.6238 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Student 3 is updated 
+2020-06-03 11:22:45.6870 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:22:50.2434 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:22:50.4313 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived 
+2020-06-03 11:22:50.5124 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:23:01.1399 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:23:01.2017 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course 3 is retreived to deleted 
+2020-06-03 11:23:01.2658 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Student 3 is deleted 
+2020-06-03 11:23:01.2658 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:23:12.1863 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:23:12.3202 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived 
+2020-06-03 11:23:12.3410 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:52:41.7450 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:52:51.9134 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrss are retreived 
+2020-06-03 11:52:51.9948 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:53:15.2402 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:55:06.5466 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:55:17.2216 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrs of 2 is retreived 
+2020-06-03 11:55:17.3013 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:55:56.4510 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:55:58.3521 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | All degrees for student 2 is added. 
+2020-06-03 11:55:58.4045 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:56:09.8379 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:56:10.0326 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrss are retreived 
+2020-06-03 11:56:10.0326 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:56:21.0527 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:56:21.2716 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrs of 2 is retreived 
+2020-06-03 11:56:21.2855 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:56:41.4875 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:56:41.6111 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | StudentCrs 2 is updated 
+2020-06-03 11:56:41.6111 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:56:52.0019 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:56:52.4022 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrss are retreived 
+2020-06-03 11:56:52.5160 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:57:29.8913 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:57:29.9757 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | StudentCrs 2 is updated 
+2020-06-03 11:57:29.9757 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:57:36.0992 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:57:36.1651 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrss are retreived 
+2020-06-03 11:57:36.1754 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 11:57:58.6154 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 11:57:58.6850 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrs of 2 is retreived 
+2020-06-03 11:57:58.6963 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 12:01:59.7885 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:02:06.6820 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrs of 2 is retreived 
+2020-06-03 12:02:06.7205 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 12:03:50.4271 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:03:52.3894 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | StudentCrs 2 is updated 
+2020-06-03 12:03:52.4016 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 12:04:02.5470 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:04:02.6614 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrss are retreived 
+2020-06-03 12:04:02.6614 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 12:04:29.4228 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:04:30.5767 | ERROR | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Something happend while deleting studentCrs 3 | System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at School.Core.Services.StudentCourseService.FindByCode(Int32 studentId) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Core\Services\StudentCourseService.cs:line 45
+   at School.API.Controllers.StudentCourseController.Delete(Int32 id) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.API\Controllers\StudentCourseController.cs:line 148 
+2020-06-03 12:04:30.5873 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 12:04:52.0502 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:05:12.2572 | ERROR | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Something happend while deleting studentCrs 3 | System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection. (Parameter 'index')
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at School.Core.Services.StudentCourseService.FindByCode(Int32 studentId) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Core\Services\StudentCourseService.cs:line 45
+   at School.API.Controllers.StudentCourseController.Delete(Int32 id) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.API\Controllers\StudentCourseController.cs:line 148 
+2020-06-03 12:05:12.2733 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 12:05:20.6942 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:08:33.2679 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:08:42.3710 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | StudentCrs 3 is retreived to deleted 
+2020-06-03 12:08:43.7569 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Student 3 is deleted 
+2020-06-03 12:08:43.7661 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 12:08:57.3231 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 12:08:57.8162 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | studentCrss are retreived 
+2020-06-03 12:08:57.8289 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:11:51.8685 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:11:51.9958 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:12:00.6690 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:12:00.7908 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:12:00.8061 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:12:00.8061 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:12:17.4496 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:12:19.4460 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:12:19.7224 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:12:19.7433 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:13:57.3190 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:14:00.9819 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:14:05.1419 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:14:05.2768 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:14:19.3948 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:14:21.6597 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:32:28.9371 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:32:31.7351 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:32:39.3999 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:32:39.6173 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:33:10.6824 | ERROR | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Something happend while getting courses | AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+PagedList`1 -> PagedList`1
+School.Core.Models.PagedList`1[[School.Core.Models.Course, School.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> School.Core.Models.PagedList`1[[School.Core.Dtos.CourseDto, School.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> System.ArgumentException: School.Core.Models.PagedList`1[School.Core.Dtos.CourseDto] needs to have a constructor with 0 args or only optional args. (Parameter 'type')
+   at lambda_method(Closure , PagedList`1 , PagedList`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , PagedList`1 , PagedList`1 , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at School.Core.Services.CourseService.FindAll(PagingParameters pagingParameters) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Core\Services\CourseService.cs:line 58
+   at School.API.Controllers.CourseController.Get(PagingParameters pagingParameters) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.API\Controllers\CourseController.cs:line 30 
+2020-06-03 18:33:10.7238 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:33:18.0971 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:33:21.5886 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:33:52.0119 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:33:53.3671 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:33:56.7872 | ERROR | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Something happend while getting courses | AutoMapper.AutoMapperMappingException: Error mapping types.
+
+Mapping types:
+PagedList`1 -> PagedList`1
+School.Core.Models.PagedList`1[[School.Core.Models.Course, School.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]] -> School.Core.Models.PagedList`1[[School.Core.Dtos.CourseDto, School.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]
+ ---> System.ArgumentException: School.Core.Models.PagedList`1[School.Core.Dtos.CourseDto] needs to have a constructor with 0 args or only optional args. (Parameter 'type')
+   at lambda_method(Closure , PagedList`1 , PagedList`1 , ResolutionContext )
+   --- End of inner exception stack trace ---
+   at lambda_method(Closure , PagedList`1 , PagedList`1 , ResolutionContext )
+   at lambda_method(Closure , Object , Object , ResolutionContext )
+   at School.Core.Services.CourseService.FindAll(PagingParameters pagingParameters) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.Core\Services\CourseService.cs:line 58
+   at School.API.Controllers.CourseController.Get(PagingParameters pagingParameters) in C:\Users\eslam.heikal\Desktop\Demos\MVC\School-App\School\School.API\Controllers\CourseController.cs:line 30 
+2020-06-03 18:33:56.8119 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:38:26.3279 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:38:33.0520 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:40:25.2938 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:40:33.4977 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:42:11.0372 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:42:11.1831 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:42:45.5004 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:42:59.8000 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:46:20.6400 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:46:20.8409 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:46:27.4031 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:46:27.4380 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:46:27.4576 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:46:27.4683 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:48:34.4449 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:48:34.6504 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:48:40.7324 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:48:40.7633 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:48:40.7700 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:48:41.2492 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:50:35.0321 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:50:35.0708 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:50:35.1956 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:50:35.1956 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:50:35.2048 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:50:35.2048 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:51:21.6175 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:51:21.6509 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:51:21.7266 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:51:21.7266 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:51:21.7266 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:51:21.7363 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:51:58.1805 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:51:58.2000 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:51:58.2674 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:51:58.2674 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:51:58.2674 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:51:58.2825 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:52:37.9655 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:52:37.9747 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:55:56.1898 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:55:56.4621 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:56:06.7166 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:56:06.7250 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:56:06.7250 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:56:07.5675 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:56:32.8282 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:56:32.8447 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 18:56:33.1096 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 18:56:33.1096 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 18:56:33.1307 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 18:56:33.1307 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:04:34.2719 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:04:34.5097 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:04:43.3365 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Courses are retreived. 
+2020-06-03 19:04:43.3459 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:04:43.3459 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Course are retreived 
+2020-06-03 19:04:44.2255 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:10:32.6135 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:10:32.9014 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:10:41.6951 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived. 
+2020-06-03 19:10:41.7051 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:10:41.7051 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived 
+2020-06-03 19:10:42.5372 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:11:13.1489 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:11:13.1839 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:11:13.5653 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | departments are retreived. 
+2020-06-03 19:11:13.5653 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:11:13.5794 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Departments are retreived 
+2020-06-03 19:11:13.5794 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:15:56.9820 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:15:57.2071 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:16:06.9201 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | departments are retreived. 
+2020-06-03 19:16:06.9351 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:16:06.9449 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Departments are retreived 
+2020-06-03 19:16:07.8848 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
+2020-06-03 19:16:21.5371 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:16:21.5640 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:16:21.9488 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived. 
+2020-06-03 19:18:19.8066 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:18:20.0275 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Invoked 
+2020-06-03 19:18:29.0813 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start | Students are retreived. 
+2020-06-03 19:18:49.8846 | INFO | System.Runtime.CompilerServices.AsyncTaskMethodBuilder`1 | Start Method is Ended 
